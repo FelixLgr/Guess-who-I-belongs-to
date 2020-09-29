@@ -1,4 +1,4 @@
-#Guess who I belongs to
+# Guess who I belongs to
 
 This is a Python coded role-playing game for it to work you must have a specific version of python
 
